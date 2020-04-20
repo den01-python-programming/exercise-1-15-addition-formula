@@ -1,25 +1,21 @@
-# Exercise 1.14 - Sum of three numbers
+# Exercise 1.15 - Addition formula
 
-Write a program that asks the user for three numbers. After this, the program prints the sum of the numbers given by the user.
+Create a program that can be used to add two integers together. In the beginning, the user is asked to give two integers that are to be summed. The program then prints the formula that describes the addition of the numbers.
 
-Examples of expected output:
+Example output:
 
 ```plaintext
 Give the first number:
-8
+*8*
 Give the second number:
-3
-Give the third number:
-3
-The sum of the numbers is 14
+*3*
+8 + 3 = 11
 ```
 
 ```plaintext
 Give the first number:
-3
+*73457*
 Give the second number:
--1
-Give the third number:
-2
-The sum of the numbers is 4
+*12888*
+73457 + 12888 = 86345
 ```
