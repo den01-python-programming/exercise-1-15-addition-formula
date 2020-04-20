@@ -1,4 +1,4 @@
-def sum_of_three_numbers():
+def addition_formula():
     # Write your code here
     
-sum_of_three_numbers()
+addition_formula()
